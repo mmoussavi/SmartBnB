@@ -15,7 +15,7 @@ To build this app, I scraped Chicago airbnb data from a third-party database, ca
 
 # SmartBnB pipeline
 
-Smartbnb’s pricing tool has two major components, …
+Smartbnb’s pricing tool has two major components.
 The first component is a machine learning model that calculates a base price according to property information, 
 and the second one is a forecast model that modifies the base price as a function of date. 
 The final results are then served to the user in a flask app hosted on an AWS.
