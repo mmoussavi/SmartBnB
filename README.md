@@ -28,7 +28,7 @@ The final results are then served to the user in a flask app hosted on an AWS.
 
 ![](ReadMe_Images/SmartBnB_Pipeline.png)
 
-Given my input feature space, to reduce the risk of overfitting, I chose the Elastic Net Regression model. Cross-validation of my results showed an average R2 of 60% and an average prediction error of $30.
+Given my input feature space, to reduce the risk of overfitting, I chose the Elastic Net Regression model. Cross-validation of my results showed an average prediction error of $30.
 
 Model results showed that three parameters had the most predictive power: Room type, # of people accommodated, and neighborhood, with neighborhood being the most important one.
 This was rather expected, as you can see here, there is a substantial difference in listing prices among different neighborhoods in chicago.
