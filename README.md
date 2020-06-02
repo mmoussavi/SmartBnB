@@ -1,6 +1,8 @@
 # SmartBnB
 Inisght Data Science Project: http://smartbnb.live/
 
+![](ReaMe_Images/SmartBnB_Web)
+
 # Background
 With the revenue generation opportunities airbnb offers, more and more people are interested in becoming hosts,
 however, this potential for revenue generation is only realized with the right pricing strategies. Overpricing results in low booking rates and underpricing directly results in loss of revenue.
