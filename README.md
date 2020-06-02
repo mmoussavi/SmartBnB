@@ -1,7 +1,7 @@
 # SmartBnB
 Inisght Data Science Project: http://smartbnb.live/
 
-![](ReadMe_Images/SmartBnB_Web)
+![](ReadMe_Images/SmartBnB_Web.png)
 
 # Background
 With the revenue generation opportunities airbnb offers, more and more people are interested in becoming hosts,
