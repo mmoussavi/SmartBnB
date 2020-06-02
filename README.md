@@ -6,6 +6,9 @@ Inisght Data Science Project: http://smartbnb.live/
 # Background
 With the revenue generation opportunities airbnb offers, more and more people are interested in becoming hosts,
 however, this potential for revenue generation is only realized with the right pricing strategies. Overpricing results in low booking rates and underpricing directly results in loss of revenue.
+
+<img src="/ReadMe_Images/Pricing.png" width=200>
+
 So pricing is very important but it can also be a very confusing process.
 While Airbnb offers some general guidelines, there are currently no free, flexible, and reliable tools that provide pricing strategies to new hosts.
 
