@@ -38,7 +38,7 @@ This was rather expected, as you can see here, there is a substantial difference
 
 For my time series analysis, I used facebook's prophet model. I cross-validated it using historical data which showed that predictions were on average within 5-7% of the original values.
 
-<img src="/ReadMe_Images/Price_Chicago_Time_Series.png" width=500>
+<img src="/ReadMe_Images/Prophet.png" width=500>
 
 # Validation
 
